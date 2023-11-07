@@ -23,7 +23,7 @@
 
 >## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,nodejs,vuejs,git,python,vscode,idea,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,vuejs,git,python,vscode,idea,linux)](https://skillicons.dev)
 
 <br>
 
