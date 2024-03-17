@@ -23,11 +23,4 @@
 
 >## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,git,python,vscode,idea,linux)](https://skillicons.dev)
-
-<br>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deyvid-G-Machado/Deyvid-G-Machado/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/Deyvid-G-Machado/Deyvid-G-Machado/output/github-snake.svg">
-</picture>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,git,python,vscode,idea,linux,arduino)](https://skillicons.dev)
