@@ -3,7 +3,6 @@
 >## Welcome to my profile!!
 
 - 📚 I'm studying system development.
-- 💇‍♂️ Pronouns: he/his.
 
 <br>
 
