@@ -22,4 +22,4 @@
 
 >## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,git,python,vscode,idea,linux,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,git,python,vscode,idea,linux,arduino)](https://skillicons.dev)
